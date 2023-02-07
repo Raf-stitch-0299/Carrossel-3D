@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    background-image: url(data:image/jpeg;base64,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);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #c5c5c5;
+}
+
+
+
+
+h1{
+   
+    font-family: "Times New Roman", Times, serif;
+    font-size: 42px;
+    letter-spacing: 0.2px;
+    word-spacing: 0.4px;
+    color: #000000;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+text-align: center;
+text-shadow: 0 0 5px #ffffff, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #2dd100, 0 0 30px #2dd100, 0 0 40px #2dd100, 0 0 55px #2dd100, 0 0 75px #2dd100;
+color: #000000;
+
+}
+
+ 
+
+.container {
+    position: relative;
+    width: 320px;
+    margin: 100px auto 0 auto;
+    perspective: 900px ;
+}
+
+.carrossel {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    animation: rotate360 19s infinite forwards linear;
+}
+
+.imagem {
+    position: absolute;
+    width: 290px;
+    height: 187px;
+    top: 40px;
+    left: 10px;
+    right: 10px;
+    background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, .4);
+    display: flex;
+}
+
+.imagem span {
+    margin: auto;
+    font-size: 1em;
+}
+
+@keyframes rotate360 {
+    from {
+        transform: rotateY(0deg);
+    }
+
+    to {
+        transform: rotateY(-360deg);
+    }
+
+}
+
+.imagem:nth-child(1) {
+    background-image: url(https://media.tenor.com/vnZT8EI63YQAAAAC/muybridge.gif);
+    transform: rotateY(0deg) translateZ(430px);
+}
+
+.imagem:nth-child(2) {
+    background-image: url(https://media.tenor.com/vnZT8EI63YQAAAAC/muybridge.gif);
+    transform: rotateY(40deg) translateZ(430px);
+}
+
+.imagem:nth-child(3) {
+    background-image: url(https://media.tenor.com/vnZT8EI63YQAAAAC/muybridge.gif);
+    transform: rotateY(80deg) translateZ(430px);
+}
+
+.imagem:nth-child(4) {
+    background-image: url(https://media.tenor.com/vnZT8EI63YQAAAAC/muybridge.gif);
+    transform: rotateY(120deg) translateZ(430px);
+}
+
+.imagem:nth-child(5) {
+    background-image: url(https://media.tenor.com/vnZT8EI63YQAAAAC/muybridge.gif);
+    transform: rotateY(160deg) translateZ(430px);
+}
+
+.imagem:nth-child(6) {
+    background-image: url(https://media.tenor.com/vnZT8EI63YQAAAAC/muybridge.gif);
+    transform: rotateY(200deg) translateZ(430px);
+}
+
+.imagem:nth-child(7) {
+    background-image: url(https://media.tenor.com/vnZT8EI63YQAAAAC/muybridge.gif);
+    transform: rotateY(240deg) translateZ(430px);
+}
+
+.imagem:nth-child(8) {
+    background-image: url(https://media.tenor.com/vnZT8EI63YQAAAAC/muybridge.gif);
+    transform: rotateY(280deg) translateZ(430px);
+}
+
+.imagem:nth-child(9) {
+    background-image: url(https://media.tenor.com/vnZT8EI63YQAAAAC/muybridge.gif);
+    transform: rotateY(320deg) translateZ(430px);
+}
+
+footer{
+  
+  display: block;
+  position: fixed;
+  width: 100%;
+  bottom: 0vh;
+  left: 0;
+  text-align: center;
+  padding: 5px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 22px;
+letter-spacing: 1px;
+word-spacing: 1px;
+color: #ffffff;
+font-weight: 200;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
